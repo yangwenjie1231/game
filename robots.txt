@@ -1,0 +1,11 @@
+User-agent:*
+Disallow: /cpanel/
+Disallow: /pma/
+Disallow: /ftp/
+Allow：/Venom%20escape.html
+Allow：/3D%20shooting%20Chinese.html
+Allow：/Tower%20defense%20situation.html
+Allow：/Gunfight%20V.1.12.1.5%20Official%20release.html
+Allow：/3D%20Eating%20chicken.html
+Allow：/Space%20werewolf%20killing%20-%20Chinese%20online%20version.html
+Allow：/mc%20Chinese%20version.html
